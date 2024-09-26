@@ -1,0 +1,136 @@
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.exe
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.deps.json
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.runtimeconfig.json
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.pdb
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.csproj.AssemblyReference.cache
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.AssemblyInfoInputs.cache
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.AssemblyInfo.cs
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.EscolaPrimariaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EscolaPrimariaAPI.props
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EscolaPrimariaAPI.props
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EscolaPrimariaAPI.props
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\scopedcss\bundle\EscolaPrimariaAPI.styles.css
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPr.EF2AA79F.Up2Date
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\refint\EscolaPrimariaAPI.dll
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.pdb
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.genruntimeconfig.cache
+C:\Users\Linkabreu\source\repos\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\ref\EscolaPrimariaAPI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.exe
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.deps.json
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.runtimeconfig.json
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\EscolaPrimariaAPI.pdb
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.csproj.AssemblyReference.cache
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.AssemblyInfoInputs.cache
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.AssemblyInfo.cs
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.EscolaPrimariaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EscolaPrimariaAPI.props
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EscolaPrimariaAPI.props
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EscolaPrimariaAPI.props
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\scopedcss\bundle\EscolaPrimariaAPI.styles.css
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPr.EF2AA79F.Up2Date
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\refint\EscolaPrimariaAPI.dll
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.pdb
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\EscolaPrimariaAPI.genruntimeconfig.cache
+C:\Users\Linkabreu\Documents\Projetos\GitHub\Projetos .NetCore\EscolaPrimariaAPI\EscolaPrimariaAPI\obj\Debug\net6.0\ref\EscolaPrimariaAPI.dll
